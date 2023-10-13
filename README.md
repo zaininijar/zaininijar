@@ -34,13 +34,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/azaininijar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/azaininijar" /></a></p><br><br>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zaininijar&show_icons=true&locale=en&layout=compact" alt="zaininijar" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zaininijar&show_icons=true&locale=en" alt="zaininijar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zaininijar&" alt="zaininijar" /></p>
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=zaininijar&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zaininijar&theme=dark&hide_border=true)<br/>
