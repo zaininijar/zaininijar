@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmad Zaini Nijar</h1>
 <h3 align="center">I am currently pursuing my studies in Informatics Engineering, immersing myself in the fascinating world of technology. Simultaneously, I am utilizing my skills as a part-time fullstack developer, where I bring concepts to life through coding wizardry. This dual role allows me to expand my knowledge and contribute to the dynamic field of software development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zaininijar&label=Profile%20views&color=0e75b6&style=flat" alt="zaininijar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zaininijar" alt="zaininijar" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/zaininijar" target="blank"><img src="https://img.shields.io/twitter/follow/zaininijar?logo=twitter&style=for-the-badge" alt="zaininijar" /></a> </p>
-
 - 🌱 I’m currently learning **GoLang**
 
 - 📫 How to reach me **zaininijar7610@gmail.com**
