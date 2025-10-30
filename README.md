@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ahmad Zaini Nijar</h1>
-<h3 align="center">I am currently pursuing my studies in Informatics Engineering, immersing myself in the fascinating world of technology. Simultaneously, I am utilizing my skills as a part-time fullstack developer, where I bring concepts to life through coding wizardry. This dual role allows me to expand my knowledge and contribute to the dynamic field of software development.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
