@@ -1,4 +1,4 @@
-### Zaini Nijar
+# Hi there, I'm Zaini Nijar 👋
 
 I am a Software Engineer based in Padang, Indonesia, currently balancing full-time engineering commitments with my Computer Science studies at UPI YPTK. 
 
