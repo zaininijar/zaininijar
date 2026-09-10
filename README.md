@@ -8,5 +8,4 @@ I mostly spend my time shipping full-stack solutions, experimenting with native 
 
 ---
 
-* **LinkedIn:** [in/zaininijar](https://linkedin.com)
-* **Instagram:** [@zaini.nijar](https://instagram.com)
+**LinkedIn:** [in/zaininijar](https://linkedin.com/zaininijar) **Instagram:** [@zaini.nijar](https://instagram.com/zaini.nijar)
